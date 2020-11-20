@@ -15,17 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="81" column="296" selection-start-line="81" selection-start-column="296" selection-end-line="81" selection-end-column="296" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="60" selection-end-line="125" selection-end-column="7" />
+            <state relative-caret-position="212">
+              <caret line="61" column="195" selection-start-line="61" selection-start-column="195" selection-end-line="61" selection-end-column="195" />
             </state>
           </provider>
         </entry>
@@ -35,6 +26,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Lihong Li</find>
+      <find>appear</find>
     </findStrings>
     <replaceStrings>
       <replace>Pengcheng Xiong</replace>
@@ -52,8 +44,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="110" />
-    <option name="y" value="23" />
+    <option name="x" value="286" />
+    <option name="y" value="149" />
     <option name="width" value="1550" />
     <option name="height" value="947" />
   </component>
@@ -111,7 +103,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="110" y="23" width="1550" height="947" extended-state="0" />
+    <frame x="54" y="260" width="1550" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -145,8 +137,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="81" column="296" selection-start-line="81" selection-start-column="296" selection-end-line="81" selection-end-column="296" />
+        <state relative-caret-position="212">
+          <caret line="61" column="195" selection-start-line="61" selection-start-column="195" selection-end-line="61" selection-end-column="195" />
         </state>
       </provider>
     </entry>
